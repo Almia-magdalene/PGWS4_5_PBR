@@ -3,7 +3,7 @@
 
 # 結果画像
 
-![5つ目の結果](result.png)
+![5つ目の結果]("C:\Users\cyano\Pictures\Screenshots\スクリーンショット 2026-10-21 135619.png")
 - 工夫した点：xxx
 
 # 進め方
